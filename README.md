@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm learning how to code games and create them for fun. <br>I write mostly in c++/vulkan. Without any experience... I've spent a lot of time to create and understand how to render a triangle.... creating surface, swapchain, piplines(omg...) and all from scratch. Why?? You ask.. when nobody needs it anymore and it's not relevant, because there is UE5 and Unity, and I'll tell you! The knowledge and passion to understand how a simple Vsync or a simple matrix works makes me feel like I've graduated from Hogwarts, although I think it's easier to study at Hogwarts than to know VulkanCore.h<br>
+I'm learning how to code games and create them for fun. <br>I write mostly in c++/vulkan. Without any experience... I've spent a lot of time to create and understand how to render a triangle.... creating surface, swapchain, pipelines(omg...) and all from scratch. Why?? You ask.. when nobody needs it anymore and it's not relevant, because there is UE5 and Unity, and I'll tell you! The knowledge and passion to understand how a simple Vsync or a simple matrix works makes me feel like I've graduated from Hogwarts, although I think it's easier to study at Hogwarts than to know VulkanCore.h<br>
 
 
 ## 🌐 Socials:
