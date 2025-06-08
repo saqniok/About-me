@@ -52,6 +52,7 @@ Background in competitive poker with strong emphasis on **probability, logic, an
 
 ## 📌 Languages
 
+- Lithuanian - native
 - Russian — native  
 - English — fluent reading, intermediate speaking/listening
 
