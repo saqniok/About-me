@@ -1,7 +1,7 @@
 # Aleksandr S.
 **Junior Game Developer (C++ / Unreal Engine)**  
 📍 Based in Belgium, available for remote work  
-📧 sansved@gmail.com | 🔗 GitHub: https://github.com/saqniok | 🎮 Steam: [FreeChance](https://store.steampowered.com/app/3198140/FreeChance/)](#)
+📧 sansved@gmail.com | 🔗 GitHub: https://github.com/saqniok | 🎮 Steam: [FreeChance](https://store.steampowered.com/app/3198140/FreeChance/)(#)
 
 ---
 
@@ -27,10 +27,10 @@ Tech stack: C++, UE5, Blueprint, custom math libs
 - Used Blueprints for UI, IK, and minor systems where appropriate
 - Handled entire pipeline: asset integration, packaging, Steam deployment
 
-> 🔗 Steam page: [FreeChance](https://store.steampowered.com/app/3198140/FreeChance/)]
-> 🚀 Vulkan API self-engine [Link](https://github.com/saqniok/Vulkan2025-selflearn)]
-> 🔧 GitHub (new projects with THREE.js): [Link](https://github.com/saqniok/ThreeJS)]
-> [Link](https://web-3d-portfolio-murex.vercel.app/)]
+> 🔗 Steam page: [FreeChance](https://store.steampowered.com/app/3198140/FreeChance/)
+> 🚀 Vulkan API self-engine [Link](https://github.com/saqniok/Vulkan2025-selflearn)
+> 🔧 GitHub (new projects with THREE.js): [Link](https://github.com/saqniok/ThreeJS)
+> [Link](https://web-3d-portfolio-murex.vercel.app/)
 
 ---
 
