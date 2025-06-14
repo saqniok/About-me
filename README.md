@@ -37,7 +37,7 @@ Tech stack: C++, UE5, Blueprint, custom math libs
 
 > 🔧 GitHub (new projects with THREE.js):
 
-[Playing field/ sahdows/ particles](https://github.com/saqniok/ThreeJS)
+[Playing field/ sahdows/ particles](https://web-3d-portfolio-murex.vercel.app/)
 
 [Galaxy Generator](https://galaxy-saqniok-free2c0mas-projects.vercel.app/)
 
