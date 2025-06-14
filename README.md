@@ -39,7 +39,7 @@ Tech stack: C++, UE5, Blueprint, custom math libs
 
 [Playing field/ sahdows/ particles](https://web-3d-portfolio-murex.vercel.app/)
 
-[Galaxy Generator](https://galaxy-saqniok-free2c0mas-projects.vercel.app/)
+[Galaxy Generator](https://galaxy-six-psi.vercel.app/)
 
 ---
 
