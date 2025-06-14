@@ -27,12 +27,19 @@ Tech stack: C++, UE5, Blueprint, custom math libs
 - Used Blueprints for UI, IK, and minor systems where appropriate
 - Handled entire pipeline: asset integration, packaging, Steam deployment
 
-> 🔗 Steam demo-game: [FreeChance](https://store.steampowered.com/app/3198140/FreeChance/)
-> 🚀 Vulkan API self-engine [Link](https://github.com/saqniok/Vulkan2025-selflearn)
+> 🔗 Steam demo-game:
+
+ [FreeChance](https://store.steampowered.com/app/3198140/FreeChance/)
+ 
+> 🚀 Vulkan API self-engine
+
+[Link](https://github.com/saqniok/Vulkan2025-selflearn)
 
 > 🔧 GitHub (new projects with THREE.js):
-> [Playing field/ sahdows/ particles](https://github.com/saqniok/ThreeJS)
-> [Galaxy Generator](https://galaxy-saqniok-free2c0mas-projects.vercel.app/)
+
+[Playing field/ sahdows/ particles](https://github.com/saqniok/ThreeJS)
+
+[Galaxy Generator](https://galaxy-saqniok-free2c0mas-projects.vercel.app/)
 
 ---
 
